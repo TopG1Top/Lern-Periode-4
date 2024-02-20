@@ -9,12 +9,15 @@ Linhard Zejneli
 1. Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?
    Meine Notern sind gut kein ungenügend
 3. Was hatten Sie sich am Ende von LP2 vorgenommen? Was war Ihr VBV? Wie könnten Sie diesen besonders gut üben?
-4. **Neu**: Was möchten Sie Neues lernen?
-5. Was wäre ein geeignetes Projekt für diese LP4?
+   gut schlafen
+5. **Neu**: Was möchten Sie Neues lernen?
+   
+7. Was wäre ein geeignetes Projekt für diese LP4?
+   ich werde an den modulen arbeiten und csharp sql
 
 ## 20.2.2024
 
-✍️ Heute habe ich... (50-100 Wörter)
+✍️ Heute habe ich versucht rauszufinden was ich machen will und mir überlegt ob es möglich ist und ob es passt. habe youtube videos geschaut und recherchiert. sql und es passt. (50-100 Wörter)
 
 ## 27.2.2024
 
