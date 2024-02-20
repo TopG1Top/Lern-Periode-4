@@ -21,14 +21,15 @@ Linhard Zejneli
 
 ## 27.2.2024
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [ ] Viertes AP
+- [ ] sql import
+- [ ] sql aufgabe
+- [ ] sql aufgabe
+- [ ] c sharp
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |
 | 1               |                      |                |                |          |
-| ...             |                      |                |                |          |
+|                 |                      |                |                |          |
 | 4               |                      |                |                |          |
 
 ✍️ Heute habe ich... (50-100 Wörter)
