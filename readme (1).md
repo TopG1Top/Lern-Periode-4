@@ -1,15 +1,16 @@
 # Lern-Periode 4
 
-Max Muster
+Linhard Zejneli
 
 20.2 bis 2.4.2024
 
 ## Grob-Planung
 
 1. Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?
-2. Was hatten Sie sich am Ende von LP2 vorgenommen? Was war Ihr VBV? Wie könnten Sie diesen besonders gut üben?
-3. **Neu**: Was möchten Sie Neues lernen?
-4. Was wäre ein geeignetes Projekt für diese LP4?
+   Meine Notern sind gut kein ungenügend
+3. Was hatten Sie sich am Ende von LP2 vorgenommen? Was war Ihr VBV? Wie könnten Sie diesen besonders gut üben?
+4. **Neu**: Was möchten Sie Neues lernen?
+5. Was wäre ein geeignetes Projekt für diese LP4?
 
 ## 20.2.2024
 
