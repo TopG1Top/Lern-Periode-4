@@ -21,9 +21,9 @@ Linhard Zejneli
 
 ## 27.2.2024
 
-- [ ] sql import
-- [ ] sql aufgabe
-- [ ] sql aufgabe
+- [X] sql import
+- [X] sql aufgabe
+- [X] sql aufgabe
 - [ ] c sharp
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
@@ -32,7 +32,7 @@ Linhard Zejneli
 |                 |                      |                |                |          |
 | 4               |                      |                |                |          |
 
-✍️ Heute habe ich... (50-100 Wörter)
+✍️ Heute habe ich vieles gemacht. habe sql fast abgeschlossen und kenne mich nun gut aus. heute habe ich sehr gut und konzentriert gearbeitet und meine aufgaben habe ich gut gelöst. (50-100 Wörter)
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen, und in der Spalte **Erfüllt?** einzutragen, ob Ihr Code die Test-Fälle erfüllt
 
