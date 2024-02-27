@@ -42,6 +42,14 @@ Linhard Zejneli
 - [] da letze woche nur 3 APs diese woche c sharp generator
 
 
+
+| Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
+| --------------- | -------------------- | -------------- | -------------- | -------- |
+| 1               |   moodle offen       | auftrag lösen  |  auftrag gelöst|          |                       
+|                 |                      |                |                |          |
+| 4               |  VS offen (programm  |  code          |  wurde erstellt|          |  
+
+
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen, und in der Spalte **Erfüllt?** einzutragen, ob Ihr Code die Test-Fälle erfüllt
 
 
