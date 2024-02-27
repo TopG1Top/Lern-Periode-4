@@ -21,18 +21,26 @@ Linhard Zejneli
 
 ## 27.2.2024
 
-- [X] sql import
-- [X] sql aufgabe
-- [X] sql aufgabe
-- [ ] c sharp
+- [X] sql import csv DB
+- [X] sql aufgabe insert into und create tables...
+- [X] sql aufgabe drop und so...
+- [ ] c sharp meinen generator noch das letzte mal programmieren
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |
-| 1               |                      |                |                |          |
+| 1               |   sql offen          | create database|  wurde erstellt|      ja  |                       
 |                 |                      |                |                |          |
-| 4               |                      |                |                |          |
+| 4               |  DB erstellt         |  create table  |  wurde erstellt|      ja  |                               
 
 ✍️ Heute habe ich vieles gemacht. habe sql fast abgeschlossen und kenne mich nun gut aus. heute habe ich sehr gut und konzentriert gearbeitet und meine aufgaben habe ich gut gelöst. (50-100 Wörter)
+
+
+## 5.3.2024
+- [] modul 187 die ersten einstigs ppp gut anschauen zum verstehen.
+- [] aufträge lösen von 187
+- [] moodle aufträge lösen da es am schluss teil der OBA ist
+- [] da letze woche nur 3 APs diese woche c sharp generator
+
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen, und in der Spalte **Erfüllt?** einzutragen, ob Ihr Code die Test-Fälle erfüllt
 
