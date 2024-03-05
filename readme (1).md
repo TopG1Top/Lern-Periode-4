@@ -36,23 +36,37 @@ Linhard Zejneli
 
 
 ## 5.3.2024
-- [] modul 187 die ersten einstigs ppp gut anschauen zum verstehen.
-- [] aufträge lösen von 187
-- [] moodle aufträge lösen da es am schluss teil der OBA ist
-- [] da letze woche nur 3 APs diese woche c sharp generator
+- [x] modul 187 die ersten einstigs ppp gut anschauen zum verstehen.
+- [x] aufträge lösen von 187
+- [x] moodle aufträge lösen da es am schluss teil der OBA ist
+- [x] da letze woche nur 3 APs diese woche c sharp generator
 
 
 
 | Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
 | --------------- | -------------------- | -------------- | -------------- | -------- |
-| 1               |   moodle offen       | auftrag lösen  |  auftrag gelöst|          |                       
+| 1               |   moodle offen       | auftrag lösen  |  auftrag gelöst| erfüllt  |                       
 |                 |                      |                |                |          |
-| 4               |  VS offen (programm  |  code          |  wurde erstellt|          |  
+| 4               |  VS offen (programm  |  code          |  wurde erstellt| erfüllt  |  
 
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen, und in der Spalte **Erfüllt?** einzutragen, ob Ihr Code die Test-Fälle erfüllt
+Heute habe ich vieles gemacht. habe die aufträge gut gelöst bin besser mit dem modul vertraut. habe etwas gedruckt (aufgabe im modul) und kenne mich nun gut aus. heute habe ich sehr gut und konzentriert gearbeitet und meine aufgaben habe ich gut gelöst. (50-100 Wörter)
+
+## 12.3.2024
+- [] wir haben nochmal ein neues modul dort mich zurecht finden und die ersten aufträge lösen.
+- [] dokumenation für M187 machen
+- [] abschliessen des c sharp projekts
+- [] abschliesen des c sharp projekts
 
 
+
+
+| Testfall-Nummer | Ausgangslage (Given) | Eingabe (When) | Ausgabe (Then) | Erfüllt? |
+| --------------- | -------------------- | -------------- | -------------- | -------- |
+| 1               |   moodle offen       | auftrag lösen  |  auftrag gelöst| erfüllt  |                       
+|                 |                      |                |                |          |
+| 4               |  VS offen (programm  |  code          |  wurde erstellt| erfüllt  |
 
 ## Reflexion
 
