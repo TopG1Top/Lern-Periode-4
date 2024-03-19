@@ -71,3 +71,11 @@ Heute habe ich vieles gemacht. habe die aufträge gut gelöst bin besser mit dem
 ## Reflexion
 
 Formen Sie Ihre Zusammenfassungen in Hinblick auf Ihren VBV zu einem zusammenhängenden Text von 100 bis 200 Wörtern (wieder mit Angabe in Klammern).
+
+
+
+19.3.2024
+- [] Modul 106 aufträge lösen und abgeben
+- [] Modul 106 aufträge lösen
+- [] Modul 187 doku
+- [] Neues tutorial für projekt
