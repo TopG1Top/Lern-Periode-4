@@ -76,11 +76,18 @@ heute habe ich vieles gemacht. habe die aufträge gut gelöst . habe etwas gemes
 - [] Modul 106 aufträge lösen und abgeben
 - [] Modul 106 aufträge lösen
 - [] Modul 187 doku
-- [] Neues tutorial für projekt
+- [] Neues tutorial für projekt anschauen
 
 
 heute habe ich vieles gemacht. habe die aufträge gut gelöst bin besser mit dem modul vertraut. habe wieder mal mit sql gearbeitet (aufgabe im modul) und kenne mich nun noch besser aus. heute habe ich sehr gut und konzentriert gearbeitet und meine aufgaben habe ich gut gelöst. (50-100 Wörter)
 
+
+
+26.3.2024
+- [] Modul 106 aufträge lösen und abgeben
+- [] Modul 106 aufträge lösen
+- [] Modul 187 doku
+- [] Neues tutorial für projekt starten
 
 
 ## Reflexion
