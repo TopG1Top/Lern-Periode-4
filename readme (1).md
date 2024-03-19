@@ -51,6 +51,7 @@ Linhard Zejneli
 
 
 ☝️ Vergessen Sie nicht, bis einen ersten Code auf github hochzuladen, und in der Spalte **Erfüllt?** einzutragen, ob Ihr Code die Test-Fälle erfüllt
+
 Heute habe ich vieles gemacht. habe die aufträge gut gelöst bin besser mit dem modul vertraut. habe etwas gedruckt (aufgabe im modul) und kenne mich nun gut aus. heute habe ich sehr gut und konzentriert gearbeitet und meine aufgaben habe ich gut gelöst. (50-100 Wörter)
 
 ## 12.3.2024
@@ -59,6 +60,7 @@ Heute habe ich vieles gemacht. habe die aufträge gut gelöst bin besser mit dem
 - [x] abschliessen des c sharp projekts
 - [x] abschliesen des c sharp projekts
 
+heute habe ich vieles gemacht. habe die aufträge gut gelöst . habe etwas gemessen (aufgabe im modul) und kenne mich nun gut aus. heute habe ich sehr gut und konzentriert gearbeitet und meine aufgaben habe ich gut gelöst. (50-100 Wörter)
 
 
 
@@ -68,10 +70,6 @@ Heute habe ich vieles gemacht. habe die aufträge gut gelöst bin besser mit dem
 |                 |                      |                |                |          |
 | 4               |  VS offen (programm  |  code          |  wurde erstellt| erfüllt  |
 
-## Reflexion
-
-Formen Sie Ihre Zusammenfassungen in Hinblick auf Ihren VBV zu einem zusammenhängenden Text von 100 bis 200 Wörtern (wieder mit Angabe in Klammern).
-
 
 
 19.3.2024
@@ -79,3 +77,16 @@ Formen Sie Ihre Zusammenfassungen in Hinblick auf Ihren VBV zu einem zusammenhä
 - [] Modul 106 aufträge lösen
 - [] Modul 187 doku
 - [] Neues tutorial für projekt
+
+
+heute habe ich vieles gemacht. habe die aufträge gut gelöst bin besser mit dem modul vertraut. habe wieder mal mit sql gearbeitet (aufgabe im modul) und kenne mich nun noch besser aus. heute habe ich sehr gut und konzentriert gearbeitet und meine aufgaben habe ich gut gelöst. (50-100 Wörter)
+
+
+
+## Reflexion
+
+Formen Sie Ihre Zusammenfassungen in Hinblick auf Ihren VBV zu einem zusammenhängenden Text von 100 bis 200 Wörtern (wieder mit Angabe in Klammern).
+
+
+
+
