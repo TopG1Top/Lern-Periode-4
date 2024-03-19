@@ -54,10 +54,10 @@ Linhard Zejneli
 Heute habe ich vieles gemacht. habe die aufträge gut gelöst bin besser mit dem modul vertraut. habe etwas gedruckt (aufgabe im modul) und kenne mich nun gut aus. heute habe ich sehr gut und konzentriert gearbeitet und meine aufgaben habe ich gut gelöst. (50-100 Wörter)
 
 ## 12.3.2024
-- [] wir haben nochmal ein neues modul dort mich zurecht finden und die ersten aufträge lösen.
-- [] dokumenation für M187 machen
-- [] abschliessen des c sharp projekts
-- [] abschliesen des c sharp projekts
+- [x] wir haben nochmal ein neues modul dort mich zurecht finden und die ersten aufträge lösen.
+- [x] dokumenation für M187 machen
+- [x] abschliessen des c sharp projekts
+- [x] abschliesen des c sharp projekts
 
 
 
