@@ -94,7 +94,7 @@ heute habe ich vieles gemacht. habe die aufträge gut gelöst bin besser mit dem
 heute habe ich vieles gemacht. habe die aufträge gut gelöst bin besser mit dem modul vertraut. habe wieder mal mit sql gearbeitet (aufgabe im modul) und kenne mich nun noch besser aus. heute habe ich sehr gut und konzentriert gearbeitet und meine aufgaben habe ich gut gelöst.
 
 
-03.04.2024
+02.04.2024
 - [x] Modul 106 aufträge lösen und abgeben
 - [x] Modul 106 aufträge lösen
 - [x] Modul 187 doku
