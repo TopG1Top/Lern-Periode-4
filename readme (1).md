@@ -99,11 +99,17 @@ heute habe ich vieles gemacht. habe die aufträge gut gelöst bin besser mit dem
 - [x] Modul 106 aufträge lösen
 - [x] Modul 187 doku
 
+heute habe ich vieles gemacht. habe die aufträge gut gelöst bin besser mit dem modul vertraut. habe wieder mal mit sql gearbeitet (aufgabe im modul) und kenne mich nun noch besser aus. heute habe ich sehr gut und konzentriert gearbeitet und meine aufgaben habe ich gut gelöst.
+
+
+
 
 ## Reflexion
 
 Formen Sie Ihre Zusammenfassungen in Hinblick auf Ihren VBV zu einem zusammenhängenden Text von 100 bis 200 Wörtern (wieder mit Angabe in Klammern).
 
+In Lernperiode 4 habe ich mich hauptsächlich auf die Vertiefung meiner Kenntnisse in SQL und C# konzentriert. Meine Planung war klar strukturiert, und ich habe regelmäßig Aufgaben abgearbeitet, sowohl in Bezug auf das Lösen von Modulaufgaben als auch auf persönliche Projekte. Es war wichtig für mich, mir konkrete Ziele zu setzen und diese konsequent zu verfolgen.
 
+Besonders stolz bin ich darauf, dass ich mich gut fokussieren konnte und konzentriert gearbeitet habe, wie ich in meinen Einträgen erwähne. Diese Fähigkeit ist entscheidend beim Selbststudium und hat mir geholfen, effizient Fortschritte zu erzielen.
 
 
